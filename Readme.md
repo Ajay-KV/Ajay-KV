@@ -102,16 +102,16 @@
 
 ## 📊 My Github Stats
 
-![Ajay GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajaykvishwakarma&show_icons=true&theme=radical) 
+![Ajay GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajay-KV&show_icons=true&theme=radical) 
 
 </br>
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ajaykvishwakarma&theme=radical) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ajay-KV&theme=radical) 
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaykvishwakarma&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Ajaykvishwakarma/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-KV&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Ajay-KV/github-readme-stats)
 
 </br>
 
@@ -126,7 +126,7 @@
 <br/>
 <br/>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Ajaykvishwakarma&theme=gruvbox&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Ajay-KV&theme=gruvbox&hide_border=true&area=true)
 <br/>
 <br/>
 
